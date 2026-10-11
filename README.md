@@ -1,8 +1,6 @@
 
-# Hi there! 👋
+# Hi there 👋
 I'm Roian, a middle school student based in South Korea!
-
-My goal is to start a company based on AI or emerging technologies.
 
 ## 🌱 I’m currently learning about...
 - Math
@@ -12,12 +10,12 @@ My goal is to start a company based on AI or emerging technologies.
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=MrRoian&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Project
+## Projects
 
 | Title | Description | link | Status |
 | --- | --- | --- | --- |
-| SpillStop | This project was done with the club members | [![Founder](https://img.shields.io/badge/Youtube-E74C3C?style=for-the-badge&labelColor=E74C3C)](https://www.youtube.com/watch?v=_iGdkPPQ4iM&t=22s) | Audit |
-| Update soon | - | - | - |
+| SpillStop | This project was done with the club members | ![Founder](https://img.shields.io/badge/Private-E74C3C?style=for-the-badge&labelColor=E74C3C) | Audit |
+| Update later | - | - | - |
 
 ## Technologies
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/) [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/) [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
