@@ -14,7 +14,7 @@ I'm Roian, a middle school student based in South Korea!
 
 | Title | Description | link | Status |
 | --- | --- | --- | --- |
-| SpillStop | This project was done with the club members | ![Founder](https://img.shields.io/badge/Private-E74C3C?style=for-the-badge&labelColor=E74C3C) | Audit |
+| SpillStop | This project was done with the club members | ![Founder](https://img.shields.io/badge/Private-E74C3C?style=for-the-badge&labelColor=E74C3C) | Review |
 | Update later | - | - | - |
 
 ## Technologies
